@@ -39,9 +39,10 @@ I'm a Computer Systems Engineering student at Brunel University London, ranked 1
       <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,vercel" alt="Next.js, TypeScript, Tailwind, Supabase, Vercel" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ibad-10/rain-scene-blender">rain-scene-blender</a></h3>
-      A 14-second short built entirely from Python: a MakeHuman character with Mixamo motion capture, particle rain that collides with the umbrella, and toon ink. The audio is synced to the animation's key frames.<br/><br/>
-      <a href="https://github.com/Ibad-10/rain-scene-blender"><img src="https://raw.githubusercontent.com/Ibad-10/rain-scene-blender/main/docs/preview.gif" width="160" alt="Rain scene preview" /></a>
+      <h3><a href="https://github.com/Ibad-10/HookLine">Hookline</a></h3>
+      Scam-spotting practice built from this week's real scam reports, for people of any age. Short lessons, practice calls where the AI caller answers what you actually say (a Gatekeeper stops the call if you start reading out a code), practice calls and emails to your real phone and inbox, and Sly, a cat mascot you can ask "is this a scam?". Ten AI jobs, all through the Mubit gateway, with small trained adapters. Built overnight at the Night Shift hackathon (Mubit), London, October 2026. <a href="https://hookline-one-iota.vercel.app">Try it</a>.<br/><br/>
+      <a href="https://github.com/Ibad-10/HookLine"><img src="https://raw.githubusercontent.com/Ibad-10/HookLine/main/docs/images/landing.png" width="280" alt="Hookline landing page: Spot the hook before it catches you" /></a><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel" alt="Next.js, TypeScript, Tailwind, Vercel" />
     </td>
   </tr>
   <tr>

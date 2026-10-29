@@ -81,8 +81,10 @@ I'm a final-year Computer Systems Engineering student at Brunel University Londo
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibad-10&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibad-10&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibad-10&theme=tokyonight" height="165" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibad-10&theme=tokyonight" height="165" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Ibad-10&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="" />

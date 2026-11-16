@@ -67,14 +67,6 @@ I'm a final-year Computer Systems Engineering student at Brunel University Londo
   </tr>
 </table>
 
-## Recent projects
-
-- **[Hookline](https://hookline-one-iota.vercel.app)** (Mubit Night Shift) — three-minute scam-spotting practice built from this week's real scam reports. [Code](https://github.com/Ibad-10/HookLine)
-- **[Sip](https://github.com/Ibad-10/Sip)** (AgentVerse, UCL) — assistive robot sim. A Hello Robot Stretch 3 helps an older person drink and take tablets safely.
-- **[ShadowCall](https://github.com/Ibad-10/ShadowCall)** (Mubit Night Shift) — dental-practice phone agent. A small adapter takes over a task only after it beats the frontier model on held-out calls.
-- **[rain-scene-blender](https://github.com/Ibad-10/rain-scene-blender)** — a 14-second Blender short built in Python: a crying close-up, a rainy street, an umbrella thrown into the wind.
-- **[design-md](https://github.com/Ibad-10/design-md)** — a Claude Code skill that opens a site in a real browser, measures the design, and writes a `DESIGN.md` for coding agents.
-
 ## Tech stack
 
 **Web & apps**<br/>

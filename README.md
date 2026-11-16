@@ -38,27 +38,26 @@ I'm a final-year Computer Systems Engineering student at Brunel University Londo
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://getpegboard.co.uk">Pegboard</a></h3>
-      A chore and pocket-money app for families. Parents post priced jobs, kids claim them with photo proof, parents approve from one queue. Installable PWA with a PIN kiosk mode for shared tablets.<br/><br/>
-      <a href="assets/pegboard-demo.mp4"><img src="assets/pegboard-demo.gif" width="100%" alt="Pegboard demo: a fridge chore list beside priced jobs, then a child claiming a job and a parent signing it off" /></a><br/>
-      <a href="assets/pegboard-demo.mp4"><strong>Watch the demo (with sound)</strong></a> · <a href="assets/pegboard-walkthrough.mp4">Full walkthrough</a><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,vercel" alt="Next.js, TypeScript, Tailwind, Supabase, Vercel" />
+      <h3><a href="https://github.com/Ibad-10/canary">Canary</a></h3>
+      Forecasts property-loan covenants (ICR and LTV) from building data and ranks loans for review. 1st place, solo, at the Grok Bot Real Estate Hackathon, Nov 2026. <a href="https://canary-eight-murex.vercel.app">Try it</a>.<br/><br/>
+      <a href="https://github.com/Ibad-10/canary/blob/main/docs/media/canary-demo-v2.mp4"><img src="assets/canary-desk.jpg" width="100%" alt="Canary desk ranking loans by breach risk, with forecast charts for the loans that need attention" /></a><br/>
+      <a href="https://github.com/Ibad-10/canary/blob/main/docs/media/canary-demo-v2.mp4"><strong>Watch the demo</strong></a><br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,fastapi,nextjs,ts,tailwind,supabase" alt="Python, FastAPI, Next.js, TypeScript, Tailwind, Supabase" />
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ibad-10/HookLine">Hookline</a></h3>
-      Scam-spotting practice built from this week's real scam reports, for people of any age. Short lessons, practice calls where the AI caller answers what you actually say (a Gatekeeper stops the call if you start reading out a code), practice calls and emails to your real phone and inbox, and Sly, a cat mascot you can ask "is this a scam?". Ten AI jobs, all through the Mubit gateway, with small trained adapters. Built overnight at the Night Shift hackathon (Mubit), London, October 2026. <a href="https://hookline-one-iota.vercel.app">Try it</a>.<br/><br/>
-      <a href="https://github.com/Ibad-10/HookLine/blob/main/docs/hookline-demo.mp4"><img src="https://raw.githubusercontent.com/Ibad-10/HookLine/main/docs/images/demo.gif" width="100%" alt="Hookline demo: scam-spotting lessons and a practice call" /></a><br/>
-      <a href="https://github.com/Ibad-10/HookLine/blob/main/docs/hookline-demo.mp4"><strong>Watch the demo (with sound)</strong></a><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel" alt="Next.js, TypeScript, Tailwind, Vercel" />
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Ibad-10/Chainsentinel">ChainSentinel</a></h3>
       Paste any Ethereum or Bitcoin wallet. It maps where the money went, runs 8 laundering checks, then Banyan Sapling judges it against an AML policy and returns FLAG, REVIEW or CLEAR. Won Best Use Case of Banyan Sapling at Mubit Night Shift, London, Oct 2026. <a href="https://chainsentinel-nine.vercel.app">Try it</a>.<br/><br/>
       <a href="https://github.com/Ibad-10/Chainsentinel/blob/main/docs/demo_silent.mp4"><img src="assets/chainsentinel-demo.gif" width="100%" alt="ChainSentinel demo: money-flow graph of an exploiter wallet and a FLAG verdict" /></a><br/>
       <a href="https://github.com/Ibad-10/Chainsentinel/blob/main/docs/demo_silent.mp4"><strong>Watch the demo</strong></a><br/><br/>
       <img src="https://skillicons.dev/icons?i=py,fastapi,html,css,js,vercel" alt="Python, FastAPI, HTML, CSS, JavaScript, Vercel" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ibad-10/passage">Passage</a></h3>
+      An export-compliance desk for defence and dual-use goods. AI suggests, an expert signs, and every step is on the record. 2nd place at The PROBLEM day, 31 Oct 2026. <a href="https://passage-gamma.vercel.app">Try it</a>.<br/><br/>
+      <a href="https://passage-gamma.vercel.app"><img src="assets/passage-case.jpg" width="100%" alt="Passage case: a defence shipment in sanctions review, on the route from intake to licence" /></a><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,vercel" alt="Next.js, TypeScript, Tailwind, Supabase, Vercel" />
     </td>
     <td width="50%" valign="top">
       <h3>Embedded &amp; digital systems</h3>

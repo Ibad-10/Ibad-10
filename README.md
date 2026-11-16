@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/ibad-ullah-zuberi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://ibad-portfolio-three.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://getpegboard.co.uk"><img src="https://img.shields.io/badge/Pegboard-live-16a34a?style=for-the-badge" alt="Pegboard, live" /></a>
 </p>
 
 ## About me

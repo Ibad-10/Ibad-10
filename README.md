@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Ibad%20Ullah%20Zuberi&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Computer%20Systems%20Engineering%20%C2%B7%20Brunel%20University%20London&descAlignY=60&descSize=16" width="100%" alt="Ibad Ullah Zuberi" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=PLC+%26+automation+at+BMW+Group;Full-stack+apps+with+Next.js+%2B+Supabase;Embedded+C%2C+assembly+and+Verilog;Blender+scenes+built+from+Python;6+hackathon+podiums%2C+4+first+places" alt="What I work on" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=5+hackathon+wins;Final-year+project+with+BMW+Group;Full-stack+apps+with+Next.js+%2B+Supabase;Embedded+C%2C+assembly+and+Verilog;Blender+scenes+built+from+Python" alt="5 hackathon wins. Final-year project with BMW Group. Full-stack apps with Next.js and Supabase. Embedded C, assembly and Verilog. Blender scenes built from Python." />
 </p>
 
 <p align="center">
@@ -14,21 +14,24 @@
 
 I'm a final-year Computer Systems Engineering student at Brunel University London. I like work where software meets something physical: PLCs moving pallets, microcontrollers driving displays, or a camera moving through a rainy street.
 
-- **BMW Group:** Logistics Planning Intern (Controls & Automation), Jul 2025 - Sep 2026, programming PLC ladder logic in Siemens TIA Portal and WAGO e!COCKPIT for automated material flow.
-- **Final-year project:** an AI model that sequences delivery routes at BMW Hams Hall to cut loading time and raise pallets per trip.
+- **BMW Group placement (finished Sep 2026):** Logistics Planning Intern, Controls & Automation, Jul 2025 - Sep 2026. Programmed PLC ladder logic in Siemens TIA Portal and WAGO e!COCKPIT for automated material flow.
+- **Final-year project:** at Brunel, with BMW. An AI model that sequences delivery routes at BMW Hams Hall to cut loading time and raise pallets per trip.
 - **Before:** Data Analyst at **EY** (SAP Analytics Cloud) and Web Developer at **Cloud Nebula Enterprises** (Python, Dash).
 - **On the side:** shipping [Pegboard](https://getpegboard.co.uk) and building animated scenes in Blender with Python.
 
 ## Hackathons
 
-| Result | Event | Project |
-|---|---|---|
-| 🥇 1st | Mubit Night Shift, London, Oct 2026 (Best Use Case of Banyan Sapling) | [ChainSentinel](https://github.com/Ibad-10/Chainsentinel): traces Ethereum and Bitcoin wallets and flags money laundering against an AML policy |
-| 🥇 1st | Brunel University Hack, Jul 2025 | [LuffaBot](https://github.com/Sahid-m/luffa-ai-bot): LangGraph agent that runs group votes and generates images from chat |
-| 🥇 1st | Radix Hack, Jul 2025 | [StreamFlow](https://github.com/Sahid-m/radix-hack): creator tipping on the Radix blockchain |
-| 🥇 1st | Encode AI London, Apr 2025 (main track + 2 bounties) | [Hack the Wallet](https://github.com/Sahid-m/HackTheWallet): talk an AI into returning locked crypto on Starknet |
-| 🏁 Finalist | EasyA x Polkadot London, Apr 2025 | [Go Fish](https://github.com/Zohaib-Eh/GoFish): instant stablecoin payments for fish exporters |
-| 🥉 3rd | Royal Hackaway v8, Feb 2025 | [Foodo-Baggins](https://github.com/Sahid-m/foodo_baggins): meal-photo nutrition tracker on Ollama |
+**5 hackathon wins.**
+
+| Result | Event | Date | Project | Links |
+|---|---|---|---|---|
+| 🥇 1st | Grok Bot Real Estate Hackathon, London | Nov 2026 | Canary, a loan early-warning desk that forecasts property-loan covenants (ICR, LTV). Solo. | [Live](https://canary-eight-murex.vercel.app) · [Code](https://github.com/Ibad-10/canary) |
+| 🥈 2nd | The PROBLEM day, London | 31 Oct 2026 | Passage, an export-compliance desk for defence and dual-use goods. Team. | [Live](https://passage-gamma.vercel.app) · [Code](https://github.com/Ibad-10/passage) |
+| 🏆 Best Use Case of Banyan Sapling | Mubit Night Shift, London | Oct 2026 | ChainSentinel, on-chain AML triage. Team. | [Live](https://chainsentinel-nine.vercel.app) · [Code](https://github.com/Ibad-10/Chainsentinel) |
+| 🥇 1st | Brunel Hack 25, Radix bounty | Jul 2025 | StreamFlow, creator tipping on the Radix blockchain. | [Code](https://github.com/Sahid-m/radix-hack) |
+| 🥉 3rd | Brunel Hack 25, Luffa/Endless bounty | Jul 2025 | LuffaBot, a LangGraph agent that runs group votes and generates images from chat. | [Code](https://github.com/Sahid-m/luffa-ai-bot) |
+| 🥇 1st | Encode AI London Hackathon | Apr 2025 | Hack the Wallet, main track plus two sponsor bounties. Talk an AI into returning locked crypto on Starknet. | [Code](https://github.com/Sahid-m/HackTheWallet) |
+| 🥉 3rd | Royal Hackaway v8, Verdn track | Feb 2025 | Foodo-Baggins, a meal-photo nutrition tracker. | [Code](https://github.com/Sahid-m/foodo_baggins) |
 
 ## Featured work
 
@@ -64,6 +67,14 @@ I'm a final-year Computer Systems Engineering student at Brunel University Londo
     </td>
   </tr>
 </table>
+
+## Recent projects
+
+- **[Hookline](https://hookline-one-iota.vercel.app)** (Mubit Night Shift) — three-minute scam-spotting practice built from this week's real scam reports. [Code](https://github.com/Ibad-10/HookLine)
+- **[Sip](https://github.com/Ibad-10/Sip)** (AgentVerse, UCL) — assistive robot sim. A Hello Robot Stretch 3 helps an older person drink and take tablets safely.
+- **[ShadowCall](https://github.com/Ibad-10/ShadowCall)** (Mubit Night Shift) — dental-practice phone agent. A small adapter takes over a task only after it beats the frontier model on held-out calls.
+- **[rain-scene-blender](https://github.com/Ibad-10/rain-scene-blender)** — a 14-second Blender short built in Python: a crying close-up, a rainy street, an umbrella thrown into the wind.
+- **[design-md](https://github.com/Ibad-10/design-md)** — a Claude Code skill that opens a site in a real browser, measures the design, and writes a `DESIGN.md` for coding agents.
 
 ## Tech stack
 
